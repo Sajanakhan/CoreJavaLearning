@@ -1,6 +1,6 @@
 package src.DEC17;
 
-public class LAB050 {
+public class LAB051 {
     public static void main(String[] args)
     {
          // ✅ Grade Calculator:
