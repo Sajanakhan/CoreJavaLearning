@@ -1,5 +1,5 @@
 package src.DEC17;
-
+import java.util.Scanner;
 public class LAB052 {
     public static void main(String[] args)
     {
